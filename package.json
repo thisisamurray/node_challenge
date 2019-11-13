@@ -1,0 +1,16 @@
+{
+  "name": "node_blank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.7.2",
+    "coinbase-pro": "^0.9.0"
+  }
+}
